@@ -1,32 +1,13 @@
 
+
+# Analisis de accidentes de trafico
 ![banner](image.png)
-# Proyecto-IA1B1
+**Autores**:Harver Alejandro Sierra García, Camilo Andrés Sanmiguel Uribe
 
-## Autores
-Harver Alejandro Sierra García, Camilo Andrés Sanmiguel Uribe
+**Objetivo** : Predecir la lesion mas grave ocurrida en un accidente dadas ciertas condiciones conocidas.
 
-## Objetivo
-Predecir el grado de gravedad y presencia de la lesion mas grave ocurrida en un accidente dadas ciertas condiciones conocidas.
+* [(Dataset)](https://www.kaggle.com/datasets/oktayrdeki/traffic-accidents/data): Contiene al rededor de 200 mil registros donde cada uno representa la ocurrencia de un accidente
+* Librerias: numpy, pandas, sklearn, tensorflow
+* Modelos: Clasificacion (GaussianNB, RFC, DNN)
 
-## Dataset
-
-
-El dataset fue obtenido de kaggle y se encuentra disponible
-* https://www.kaggle.com/datasets/oktayrdeki/traffic-accidents/data  
-
-Tambien se puede utilizar el enlace al csv alojado en drive el cual es el utilizado para la carga del dataframe en el colab
-* https://drive.google.com/uc?id=1ZeiNMmjUTucHLJl0hFI-TbLUX5zpwMsU
-
-## Modelos
-* Supervisados (Clasificacion)
-    * GaussianNB
-    * Random Forest Clasifier
-    * SVC
-    * DNN
-* No supervisados
-    * Kmeans
-    * DBS
-
-# Video
-
-[LINK]
+[(Proyecto)]();[(Video)](about:blank);[(+info)](https://github.com/CamiloSanmiguel-2200922/Proyecto-IA1B1-prediccion-de-la-gravedad-en-accidentes-de-trafico);
